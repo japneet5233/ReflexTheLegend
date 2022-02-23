@@ -24,7 +24,7 @@ class ReflexTheLegend():
     self.location = "Thessaloniki, Greece";
     self.twitter = "@ReflexTheLegend";
     self.web = "https://r3fl3x.tk";
-    self.discord = "R3FL3X#1337"
+    self.discord = "R3FL3X#1337";
   
   def __str__(self):
     return self.name
