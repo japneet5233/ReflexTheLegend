@@ -1,6 +1,11 @@
 <h1 align="center">
   <b>ReflexTheLegend</b>
 </h1>
+<p align="center"><br>
+    <a href="https://github.com/NotSaksh">
+      <img src="https://lanyard.cnrad.dev/api/852825042630475827"/>
+       </a>
+    </p>
 
 Hello there! I'm Chris (AKA Reflex), i was born in 2005 and i'm currently studying computers' science!
 Here is my <a href="https://discord.gg/CkgGNekjxB">Discord Server</a> if you wanna join and <a href="https://r3fl3x.tk">here is my website</a> :)
