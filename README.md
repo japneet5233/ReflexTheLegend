@@ -2,7 +2,7 @@
   <b>ReflexTheLegend</b>
 </h1>
 <p align="center"><br>
-    <a href="https://github.com/NotSaksh">
+    <a href="https://github.com/ReflexTheLegend">
       <img src="https://lanyard.cnrad.dev/api/852825042630475827"/>
        </a>
     </p>
