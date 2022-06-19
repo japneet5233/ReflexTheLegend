@@ -2,7 +2,7 @@
   <b>ReflexTheLegend</b>
 </h1>
 <p align="center"><br>
-    <a href="https://r3fl3x.tk">
+    <a href="https://discord.com/users/852825042630475827">
       <img src="https://lanyard.cnrad.dev/api/852825042630475827"/>
        </a>
     </p>
