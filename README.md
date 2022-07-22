@@ -24,18 +24,18 @@ Here is my <a href="https://discord.gg/CkgGNekjxB">Discord Server</a> if you wan
 class ReflexTheLegend():
     
   def __init__(self):
-    self.name = "Christos Daglaroglou";
-    self.username = "R3FL3X";
-    self.location = "Thessaloniki, Greece";
-    self.twitter = "@ReflexTheLegend";
-    self.web = "https://r3fl3x.tk";
-    self.discord = "R3FL3X#1337";
+    self.name = "tapskill mobile";
+    self.username = "Japneet";
+    self.location = "In Your butt";
+    self.twitter = "@Op";
+    self.web = "https://guild.ngtracker.ml";
+    self.discord = "#0000";
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = ReflexTheLegend()
+    me = Japneet()
 ```
 
 
